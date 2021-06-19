@@ -1,6 +1,6 @@
 # As the same as ModBinomialR that you can find in my reporsitories
 
-bino2=function(S,K,T,r,n,o,put=FALSE,am=FALSE){
+bino2=function(S,K,T,r,n,o,put=FALSE,am=FALSE){ #am means american
   t=T/n
   u=exp(o*sqrt(t))
   d=1/u
