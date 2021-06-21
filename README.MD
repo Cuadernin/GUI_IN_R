@@ -1,6 +1,8 @@
 # GUI IN R 
-GUI example in R using tcltk
+<img align="center" src="https://github.com/Cuadernin/GUI_IN_R/blob/main/Images/option.jpg" height="450" width="350"> 
+<br/>
 
+GUI example in R using tcltk
 ## Start 🚀
 I decided to use [option am/eu](https://github.com/Cuadernin/ModBinomialR) as the main code.
 
